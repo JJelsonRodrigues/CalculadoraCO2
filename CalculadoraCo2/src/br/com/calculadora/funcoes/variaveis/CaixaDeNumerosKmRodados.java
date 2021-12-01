@@ -6,9 +6,6 @@ import javax.swing.text.PlainDocument;
 
 public class CaixaDeNumerosKmRodados extends PlainDocument {
 
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 4832544555329764521L;
 
 	@Override
